@@ -1,0 +1,18 @@
+body{
+  /* background-color: blue; */
+}
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+textarea{
+  height: 100px;
+  max-height: 200px;
+}
+.c-form{
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 5%;
+}
